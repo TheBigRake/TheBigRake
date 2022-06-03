@@ -1,6 +1,7 @@
 ## Hi there 👋
+<p align="center"><a href="https://www.jacobahays.com"><img width="200" src="https://static.wixstatic.com/media/433a13_d6130cc8171c44feab0dd5541845566e~mv2.jpg" alt="Jacob A. Hays Brand Logo"></a></p>
+
 ## I'm Jacob A. Hays (He/Him/His)
-####
 
 
 <!--
