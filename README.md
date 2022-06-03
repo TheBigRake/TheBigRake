@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm Jacob A. Hays (He/Him/His)
+## I'm Jacob A. Hays (He/Him/His)
 ####
 
 
