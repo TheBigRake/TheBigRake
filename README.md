@@ -17,7 +17,7 @@
     <img align="center" src="https://static.wixstatic.com/media/433a13_f2e71ef4b21f46a3ae8f6fd95f640e8b~mv2.png" alt="Instagram" height="30px" width="30px" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:contact@aralroca.com" target="_blank">
+  <a href="mailto:jacobahays223@gmail.com" target="_blank">
     <img align="center" src="https://static.wixstatic.com/media/433a13_f817a0b5ce274007bda41631d251c7e2~mv2.png" alt="Jacobahays email" height="30px" width="30px" />
   </a>
 </p>
