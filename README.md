@@ -24,8 +24,8 @@
 </p>
    </body>
 
-### I'm interested in freelance (paid and unpaid) work primarily in the field of web development. Data Science, Machine Learning, and basic mechanical coding are also fields of interest. 
-### Experienced in HTML5, CSS, JavaScript, PHP, Command Line and R. Proficient in SQL, Python, and Ruby. Learning Julia, JAVA, and C++
+### I'm interested in freelance (paid and unpaid) work primarily in the field of web development. Data Science, Machine Learning and basic mechanical coding are also fields of interest. 
+### Experienced in HTML5, CSS, JavaScript, PHP, Command Line and R. Proficient in SQL, Python and Ruby. Learning Julia, JAVA and C++
 
 <!--
 **TheBigRake/TheBigRake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
