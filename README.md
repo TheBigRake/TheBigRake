@@ -1,6 +1,6 @@
 ## Hi, I'm Jacob A. Hays (He/Him/His)
 <body>
-<p align="center"><a href="https://www.jacobahays.com"><img width="200" src="https://static.wixstatic.com/media/433a13_d6130cc8171c44feab0dd5541845566e~mv2.jpg" alt="Jacob A. Hays Brand Logo"></a></p>
+<p align="center"><a href="https://www.jacobahays.info"><img width="200" src="https://static.wixstatic.com/media/433a13_d6130cc8171c44feab0dd5541845566e~mv2.jpg" alt="Jacob A. Hays Brand Logo"></a></p>
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://www.behance.net/jakehays1" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://static.wixstatic.com/media/433a13_dee3bbefa1f94ada9b695f483bb09038~mv2.png" alt="Behance Adobe Brand and Design Portfolio" height="30px" width="30px" />
@@ -25,19 +25,4 @@
    </body>
 
 ### I'm interested in freelance (paid and unpaid) work primarily in the field of web development. Data Science, Machine Learning and basic mechanical coding are also fields of interest. 
-### Experienced in HTML5, CSS, JavaScript, PHP, Command Line and R. Proficient in SQL, Python and Ruby. Learning Julia, JAVA and C++
-
-<!--
-**TheBigRake/TheBigRake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I know HTML, CSS, and JavaScript for web design. I know R and Python for data science.
