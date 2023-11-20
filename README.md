@@ -24,5 +24,5 @@
 </p>
    </body>
 
-### I'm interested in freelance (paid and unpaid) work primarily in the field of web development. Data Science, Machine Learning and basic mechanical coding are also fields of interest. 
-### I know HTML, CSS, and JavaScript for web design. I know R and Python for data science.
+### I'm interested in the fields of web development and data science. 
+### I know basic HTML, CSS, and JavaScript for web design. I am learning R and Python for data science.
